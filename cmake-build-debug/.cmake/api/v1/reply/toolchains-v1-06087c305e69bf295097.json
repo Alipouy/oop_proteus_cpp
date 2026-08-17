@@ -1,0 +1,88 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Program Files/JetBrains/MinGW/lib/gcc/mingw32/5.1.0/include/c++",
+						"C:/Program Files/JetBrains/MinGW/lib/gcc/mingw32/5.1.0/include/c++/mingw32",
+						"C:/Program Files/JetBrains/MinGW/lib/gcc/mingw32/5.1.0/include/c++/backward",
+						"C:/Program Files/JetBrains/MinGW/lib/gcc/mingw32/5.1.0/include",
+						"C:/Program Files/JetBrains/MinGW/include",
+						"C:/Program Files/JetBrains/MinGW/lib/gcc/mingw32/5.1.0/include-fixed"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Program Files/JetBrains/MinGW/lib/gcc/mingw32/5.1.0",
+						"C:/Program Files/JetBrains/MinGW/lib/gcc",
+						"C:/Program Files/JetBrains/MinGW/mingw32/lib",
+						"C:/Program Files/JetBrains/MinGW/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"C:/Program Files/JetBrains/MinGW/lib/gcc/mingw32/5.1.0/libstdc++.a",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/Program Files/JetBrains/MinGW/bin/c++.exe",
+				"version" : "5.1.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/Program Files/JetBrains/MinGW/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

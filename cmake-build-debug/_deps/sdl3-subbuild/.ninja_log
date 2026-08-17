@@ -1,0 +1,21 @@
+# ninja log v5
+0	54	8086086992001687	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir	c41cb59b58496a5b
+0	54	8086086992001687	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir	c41cb59b58496a5b
+1	189313	8086129976122675	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download	5f55e143544876bd
+1	189313	8086129976122675	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download	5f55e143544876bd
+189313	189367	8086129976675187	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update	a6a2b848216fda15
+189313	189367	8086129976675187	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update	a6a2b848216fda15
+189367	189421	8086129977207210	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch	ca602c837800e9f1
+189367	189421	8086129977207210	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch	ca602c837800e9f1
+189421	189470	8086129977696840	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure	ac8bb0e9e71a4f44
+189421	189470	8086129977696840	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure	ac8bb0e9e71a4f44
+189471	189524	8086129978236638	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build	fbe6a5427003cee2
+189471	189524	8086129978236638	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build	fbe6a5427003cee2
+189524	189575	8086129978753851	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install	70bef90b46eb087d
+189524	189575	8086129978753851	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install	70bef90b46eb087d
+189575	189630	8086129979302774	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test	e5e48fba28bf0a1c
+189575	189630	8086129979302774	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test	e5e48fba28bf0a1c
+189630	189701	8086129980015173	CMakeFiles/sdl3-populate-complete	b61af88f948a92e7
+189630	189701	8086129980015173	sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-done	b61af88f948a92e7
+189630	189701	8086129980015173	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate-complete	b61af88f948a92e7
+189630	189701	8086129980015173	C:/Users/Mohsen/CLionProjects/Proteus/cmake-build-debug/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-done	b61af88f948a92e7
