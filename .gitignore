@@ -1,0 +1,16 @@
+# JetBrains / CLion / IntelliJ IDE settings
+.idea/
+
+# CMake build output
+cmake-build-debug/
+cmake-build-*/
+
+# Generic build folders
+build/
+Build/
+
+# Compiled C/C++ outputs
+*.o
+*.obj
+*.out
+*.exe
